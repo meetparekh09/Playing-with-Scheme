@@ -1,0 +1,1 @@
+This was made to learn lambda calculus and play around with the list functionalities of scheme
